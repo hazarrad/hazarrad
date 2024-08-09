@@ -12,5 +12,7 @@
 - 📫 How to reach me: hassanzerrad06@gmail.com
 
 <p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=hazarrad&show_icons=true&hide_border=true&&count_private=false&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazarrad&show_icons=true&hide_border=true&layout=compact&langs_count=16"/>
+
   </p>
   
